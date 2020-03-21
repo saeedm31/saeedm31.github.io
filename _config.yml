@@ -5,7 +5,7 @@ favicon: images/favicon.ico
 # Personal info
 name: Saeed Hojjatpanah
 title: Astronomer
-email: saeed.Hojjatpanah@astro.up.pt
+email: saeed.Hojjatpanah[at]astro[dot]up[dot]pt
 website: saeedm31.github.io
 
 # Social links
@@ -14,7 +14,7 @@ github_username:  saeedm31
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: saeedhjd
+instagram_username: saeedjjdo
 # linkedin_username: jameswgran
 # pinterest_username: jekyll
 # youtube_username: Saeed Hojjatpanah
@@ -41,9 +41,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alos :
-   - Exoplanets
-   - Transit
+  ---
+   
+   
 
 # Footer
 footer_show_references: true

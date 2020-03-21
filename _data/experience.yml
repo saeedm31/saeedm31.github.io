@@ -1,9 +1,9 @@
 - layout: left
-  company: New
-  link: Saeed H
+  company: Detection of exoplanets
+  link: 
   job_title: Astronomy
   dates: November 2017 - Present
   quote: >
-   TBD
+   Radial velocity and Transit methods
   description: | # this will include new lines to allow paragraphs
-    New
+    --
