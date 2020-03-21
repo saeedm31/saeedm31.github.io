@@ -1,9 +1,9 @@
 - layout: left
-  name: University of Porto
+  name: Department of Physics and Astronomy, University of Porto
   dates: 2016 - now
   qualification: PhD
   quote: >
-    Physics and Astronomy
+    
   description: | # this will include new lines to allow paragraphs
     Radial velocity data analysis and optimization of the observations for the ESPRESSO planet-hunter: Towards finding a twin of Earth.
 
