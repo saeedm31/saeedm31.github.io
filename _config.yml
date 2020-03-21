@@ -22,7 +22,8 @@ instagram_username: saeedjjdo
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+# about_profile_image: images/profile.jpg
+about_profile_image: images/pro.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi ! I am a PhD candidate in Astronomy at The Instituto de Astrofísica e\
    Ciências do Espaço (IA) and University of Porto.
