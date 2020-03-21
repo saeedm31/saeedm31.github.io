@@ -17,15 +17,16 @@ github_username:  saeedm31
 instagram_username: saeedhjd
 # linkedin_username: jameswgran
 # pinterest_username: jekyll
-youtube_username: Saeed Hojjatpanah
+# youtube_username: Saeed Hojjatpanah
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Saeed and I'm a PhD candidate in astronomy at University of Porto !
-
+  Hi ! My name is Saeed and I am a PhD candidate in Astronomy at The Instituto de Astrofísica e\
+   Ciências do Espaço (IA) and University of Porto.
+   I am interested in detecting and characterizing new exoplanets.
   
 
 # Projects Section
