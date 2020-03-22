@@ -25,10 +25,10 @@ instagram_username: saeedjjdo
 # about_profile_image: images/profile.jpg
 about_profile_image: images/pro.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi ! I am a PhD candidate in Astronomy at The Instituto de Astrofísica e\
-   Ciências do Espaço (IA) and University of Porto.
+  Hi ! I am a PhD candidate in Astronomy at <a href="http://www.iastro.pt/index.html">The Instituto de Astrofísica e Ciências do Espaço (IA)</a> and <a href="http://dfa.fc.up.pt/research/physics-and-astronomy/">University of Porto</a>.
    I am interested in detecting and characterizing new exoplanets.
   
+
 
 # Projects Section
 # projects_title: Projects
