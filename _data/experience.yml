@@ -1,9 +1,18 @@
 - layout: left
-  company: Exoplanets
+  company: ESPRESSO blind radila velocity survey
   link: 
   job_title: --
-  dates: 2014 - Present
+  dates: 2016 - Present
   quote: >
    --
   description: | # this will include new lines to allow paragraphs
-    Radial Velocity and Transit methods
+   --
+- layout: left
+  company: Correlation between Radial Velocity jittre and flux variability
+  link: 
+  job_title: --
+  dates: 2018 - Present
+  quote: >
+   --
+  description: | # this will include new lines to allow paragraphs
+    --
