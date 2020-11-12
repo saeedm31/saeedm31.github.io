@@ -27,7 +27,7 @@ about_profile_image: images/pro.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi ! I am a PhD candidate in Astronomy at <a href="http://www.iastro.pt/index.html">The Instituto de Astrofísica e Ciências do Espaço (IA)</a> and <a href="http://dfa.fc.up.pt/research/physics-and-astronomy/">University of Porto</a>.
    I am interested in detecting and characterizing of Exoplanets.
-   I am following up on my PhD project under the supervisions of Prof. Dr. Nuno Santos and Dr. Pedro Figueira.
+   I am following up on my PhD project under the supervisions of Prof. Dr. Nuno Santos and Dr. Pedro Figueira, Dr. Mahmoudreza Oshagh. 
    
   
 
@@ -45,7 +45,7 @@ projects_title: Refereed Publications
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   ---
-  TBD..
+I hold a bachelor's degree in Physics and a master’s degree in Astronomy from the University of Zanjan, Iran that investigated the Exoplanet detection survey using HARPS and K2 data. 
    
    
 
