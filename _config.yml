@@ -1,4 +1,6 @@
 # Site
+encoding: UTF-8
+
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
@@ -43,7 +45,7 @@ projects_title: Refereed Publications
 
 # More Section
 # more_title: A Little More About Me
-#more_content: | # this will include new lines to allow paragraphs
+more_content: | # this will include new lines to allow paragraphs
   ---
    
 
