@@ -43,9 +43,8 @@ projects_title: Refereed Publications
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
+#more_content: | # this will include new lines to allow paragraphs
   ---
- I hold a bachelor degree in Physics and a master’s degree in Astronomy from the  University of Zanjan, Iran that investigated the Exoplanet detection survey using HARPS and K2 data.
    
 
 # Footer
