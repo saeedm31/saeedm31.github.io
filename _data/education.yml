@@ -1,10 +1,21 @@
 - layout: left
-  name: Department of Physics and Astronomy, University of Porto
+  name: University of Porto
   dates: 2016 - 2020
-  qualification: PhD
+  qualification: PhD in Astronomy
   quote: >
-    
+    Radial velocity data analysis and optimization of the observations for the ESPRESSO planet-hunter: towards finding a twin of Earth
   description: | # this will include new lines to allow paragraphs
-    Radial velocity data analysis and optimization of the observations for the ESPRESSO planet-hunter: Towards finding a twin of Earth.
+    Funded by a competitive €60K national PhD::SPACE grant, followed by a €50K CNRS/CNES postdoctoral fellowship.
 
-    
+- layout: left
+  name: University of Zanjan
+  dates: 2014
+  qualification: MSc in Astrophysics
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+
+- layout: left
+  name: Shiraz University
+  qualification: BSc in Physics
+  quote: >
+  description: | # this will include new lines to allow paragraphs

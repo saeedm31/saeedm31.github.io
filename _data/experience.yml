@@ -1,27 +1,25 @@
 - layout: left
-  company: Exoplanet transit candidates validation and grading for PLATO space telescope 
-  link: 
-  job_title: --
-  dates: 2021 - Present
+  company: Aumovio IT and Data Solutions (formerly Continental)
+  link: www.aumovio.com
+  job_title: Data Scientist & Analytics Consultant
+  dates: December 2022 - Present
   quote: >
-    PLATO/ESA/CNES space mission 
+    Generative AI, machine learning and data pipelines for enterprise teams, Porto
   description: | # this will include new lines to allow paragraphs
-  
+    - Built an internal RAG assistant over scattered technical documentation, cutting routine document lookup time by about 40%.
+    - Developed an on-premise AI assistant using open LLMs served in-house, keeping sensitive data private; adopted by two internal teams.
+    - Designed, validated and deployed time-series forecasting models, improving forecast accuracy by around 15% over the previous baseline.
+    - Prototyped and compared GenAI and agent approaches (LLMs, RAG, MCP, AWS Bedrock) to pick the right tool for each business case.
+    - Built scalable data pipelines and automated workflows for large enterprise datasets in Agile teams.
+
 - layout: left
-  company: ESPRESSO blind radila velocity survey
-  link: 
-  job_title: --
-  dates: 2016 - Present
+  company: Laboratoire d'Astrophysique de Marseille (LAM)
+  link: www.lam.fr
+  job_title: Data Scientist & Researcher (applied R&D)
+  dates: 2016 - 2022
   quote: >
-    Collaboration with ESPRESSO GTO
+    ESA PLATO space mission
   description: | # this will include new lines to allow paragraphs
-   --
-- layout: left
-  company: Correlation between Radial Velocity jittre and flux variability
-  link: 
-  job_title: --
-  dates: 2018 - Present
-  quote: >
-   Based on HARPS and TESS
-  description: | # this will include new lines to allow paragraphs
-    --
+    - Delivered machine learning and statistical tools that turned large, noisy sensor datasets into usable signals for the ESA PLATO mission.
+    - Designed and built end-to-end data-processing pipelines (ETL, validation, automation) used across international teams.
+    - Prototyped and compared analysis methods, then packaged the working approach as reusable Python tools and APIs.

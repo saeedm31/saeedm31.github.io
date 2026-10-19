@@ -6,8 +6,8 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Saeed Hojjatpanah
-title: Astronomer/Data Scientist
-email: saeed.Hojjatpanah[at]lam[dot]fr
+title: Applied Scientist · AI & ML Engineer
+email: saeedm31@gmail.com
 website: saeedm31.github.io
 
 # Social links
@@ -17,7 +17,7 @@ github_username:  saeedm31
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: saeedjjdo
-# linkedin_username: jameswgran
+linkedin_username: saeed-hojjatpanah-13740542
 # pinterest_username: jekyll
 # youtube_username: Saeed Hojjatpanah
 # googleplus_username: +jekyll
@@ -27,15 +27,16 @@ instagram_username: saeedjjdo
 # about_profile_image: images/profile.jpg
 about_profile_image: images/pro.jpg
 about_content: | # this will include new lines to allow paragraphs
+  Hi, I'm Saeed, an AI and machine learning engineer in Porto, Portugal. I turn business problems into working solutions:
+  LLM and RAG systems, AI agents, forecasting models and the data pipelines behind them.
 
-about_content: | # this will include new lines to allow paragraphs
-  Hi ! I'm Saeed, a former astronomer and curently a data scientist/data engineer. I am interested in data science, big data and data analysis as well as detecting and characterizing of Exoplanets using the both transit and radial velocity methods. 
-   <a href="https://saeedm31.github.io/cv/">My CV</a>.
-  
+  Before industry I was an astronomer, building machine learning and statistical tools to find planets in noisy
+  space-telescope data. Same skills, new problems.
+
 
 
 # Projects Section
-projects_title: Refereed Publications
+projects_title: Projects
 
 # Experience Section
 # experience_title: Experience
@@ -45,9 +46,12 @@ projects_title: Refereed Publications
 
 # More Section
 # more_title: A Little More About Me
+more_title: Research background
 more_content: | # this will include new lines to allow paragraphs
-  I hold a bachelor's degree in Physics, a master’s degree in Astronomy from the University of Zanjan, Iran and a PhD in Astronomy from University of Porto, Portugal.
-   
+  My PhD (University of Porto, 2020) was on radial-velocity data analysis for ESPRESSO, the planet-hunting
+  spectrograph, followed by a CNRS/CNES fellowship working on the ESA PLATO mission.
+  You can find my refereed publications on <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Hojjatpanah%2C%20S%22&sort=date%20desc%2C%20bibcode%20desc">NASA ADS</a>.
+
 
 # Footer
 footer_show_references: true

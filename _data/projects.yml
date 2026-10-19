@@ -1,11 +1,44 @@
-- layout: top-middle
-  name: 
-  link: github.com/saeedm31
-  github: sproogen/resume-theme
+- layout: left
+  name: LexTreeRAG
+  link: saeedm31.github.io/LexTreeRAG
+  github: saeedm31/LexTreeRAG
   quote: >
-    Please visit my publications <a href="https://ui.adsabs.harvard.edu/search/q=Hojjatpanah&sort=date%20desc%2C%20bibcode%20desc&p_=0">ADS</a>
+    Ask questions about EU law and get answers that cite the exact articles, pulled live from EUR-Lex.
   description: | # this will include new lines to allow paragraphs
-    ----
+    Vectorless RAG: the model navigates each regulation's article tree instead of searching embeddings. Claude, SPARQL, Streamlit.
 
+- layout: left
+  name: Exoplanet False-Positive Classifier
+  link: ai-classifies-fp-transit-exoplanets.streamlit.app
+  github: saeedm31/AI-Classifies-FP-Transit-Exoplanets
+  quote: >
+    Is that dip in starlight a planet, or a false alarm?
+  description: | # this will include new lines to allow paragraphs
+    Random forest on NASA Kepler data, 0.96 ROC AUC with honest cross-validation. Live Streamlit app with batch scoring.
 
+- layout: left
+  name: City Climate Dashboard
+  link: github.com/saeedm31/Porto_weather
+  github: saeedm31/Porto_weather
+  quote: >
+    Is today unusually warm compared with the 30-year normal?
+  description: | # this will include new lines to allow paragraphs
+    Open-Meteo → PostgreSQL → Flask pipeline with climate anomalies and warming trend. Self-hostable with Docker.
 
+- layout: left
+  name: pordic
+  link: github.com/saeedm31/pordic
+  github: saeedm31/pordic
+  quote: >
+    Translator and dictionary for European Portuguese, not Brazilian.
+  description: | # this will include new lines to allow paragraphs
+    LLM-powered, flags words that differ in Brazil. Works with OpenAI or a free local model via Ollama.
+
+- layout: left
+  name: RAG_V1
+  link: github.com/saeedm31/RAG_V1
+  github: saeedm31/RAG_V1
+  quote: >
+    Chat with your PDFs, privately.
+  description: | # this will include new lines to allow paragraphs
+    Fully local RAG chatbot: sentence-transformer embeddings and Llama 3.2 via Ollama. Streamlit and Docker.
