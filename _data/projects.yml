@@ -8,6 +8,15 @@
     Vectorless RAG: the model navigates each regulation's article tree instead of searching embeddings. Claude, SPARQL, Streamlit.
 
 - layout: left
+  name: Energy Demand Forecast
+  link: github.com/saeedm31/energy-demand-forecast
+  github: saeedm31/energy-demand-forecast
+  quote: >
+    How much electricity will this home use in the next 14 days, and how sure are we?
+  description: | # this will include new lines to allow paragraphs
+    Gradient boosting with conformal 80% intervals on 4 years of smart-meter data. 30% better than the baseline in a 52-week rolling backtest. MLflow tracking, Flask API, Docker.
+
+- layout: left
   name: Exoplanet False-Positive Classifier
   link: ai-classifies-fp-transit-exoplanets.streamlit.app
   github: saeedm31/AI-Classifies-FP-Transit-Exoplanets
