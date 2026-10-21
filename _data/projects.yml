@@ -8,6 +8,15 @@
     Vectorless RAG: the model navigates each regulation's article tree instead of searching embeddings. Claude, SPARQL, Streamlit.
 
 - layout: left
+  name: Bank KPI Assistant
+  link: sh-bank-kpi-assistant.streamlit.app
+  github: saeedm31/bank-kpi-assistant
+  quote: >
+    Ask a bank's data a question in plain English and get the number, a chart and the working.
+  description: | # this will include new lines to allow paragraphs
+    Talk-to-your-database assistant on live (simulated) bank data: agreed KPI definitions, read-only SQL guard, alerts for unusual activity, and an optional AI mode (Claude, OpenAI or Ollama). 40/40 on its test questions; declines what it can't answer. Live Streamlit app.
+
+- layout: left
   name: Card Fraud Detection
   link: sh-card-fraud-detection.streamlit.app
   github: saeedm31/card-fraud-detection
