@@ -8,6 +8,15 @@
     Vectorless RAG: the model navigates each regulation's article tree instead of searching embeddings. Claude, SPARQL, Streamlit.
 
 - layout: left
+  name: Card Fraud Detection
+  link: sh-card-fraud-detection.streamlit.app
+  github: saeedm31/card-fraud-detection
+  quote: >
+    Which card payments are fraud, why, and how many alerts are worth reviewing?
+  description: | # this will include new lines to allow paragraphs
+    Gradient boosting on behavioural features, with plain-language reasons for every alert and a threshold chosen by money saved. Catches 86% of fraud with 9 alerts a day on simulated data; PR-AUC 0.81 on the real ULB card dataset. Live Streamlit app.
+
+- layout: left
   name: Energy Demand Forecast
   link: github.com/saeedm31/energy-demand-forecast
   github: saeedm31/energy-demand-forecast
