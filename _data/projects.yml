@@ -72,12 +72,12 @@
 
 - layout: left
   name: Energy Demand Forecast
-  link: github.com/saeedm31/energy-demand-forecast
+  link: sh-energy-demand-forecast.streamlit.app
   github: saeedm31/energy-demand-forecast
   quote: >
-    How much electricity will this home use in the next 14 days, and how sure are we?
+    How much electricity will be used in the next 14 days, and how sure are we?
   description: | # this will include new lines to allow paragraphs
-    Gradient boosting with conformal 80% intervals on 4 years of smart-meter data. 30% better than the baseline in a 52-week rolling backtest. MLflow tracking, Flask API, Docker.
+    Gradient boosting with conformal 80% intervals. Tested on 4 years of one home's smart-meter data (30% better than the baseline in a 52-week rolling backtest), plus an optional live mode for all of Portugal: real demand and temperature collected every day, new days used as the test set, retraining started by a person behind a quality gate. MLflow, Flask API, live Streamlit app.
 
 - layout: left
   name: Exoplanet False-Positive Classifier
