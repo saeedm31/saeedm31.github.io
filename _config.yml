@@ -28,7 +28,9 @@ linkedin_username: saeed-hojjatpanah-13740542
 about_profile_image: images/pro.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Saeed, an AI and machine learning engineer in Porto, Portugal. I turn business problems into working solutions:
-  LLM and RAG systems, AI agents, forecasting models and the data pipelines behind them.
+  AI agents, LLM and RAG systems, forecasting and anomaly-detection models, and the data pipelines behind them.
+  I build them the way a company could run them: classic ML where the numbers are, LLMs where the reading is,
+  evaluation gates in CI, and people in charge of every decision.
 
   Before industry I was an astronomer, building machine learning and statistical tools to find planets in noisy
   space-telescope data. Same skills, new problems.

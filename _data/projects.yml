@@ -1,4 +1,40 @@
 - layout: left
+  name: LedgerWatch
+  link: sh-ledgerwatch.streamlit.app
+  github: saeedm31/LedgerWatch
+  quote: >
+    Which journal entries of the month-end close need an accountant's look, and why?
+  description: | # this will include new lines to allow paragraphs
+    Audit tests and four trained models rank every entry; a Claude agent investigates the riskiest ones with read-only MCP tools; accountants decide, and their decisions retrain the model through evaluation gates. Found all 72 planted problems at 6 flags per 1,000 entries. Snowflake-ready SQL, Terraform for AWS, live Streamlit app.
+
+- layout: left
+  name: InvoiceGuard
+  link: sh-invoiceguard.streamlit.app
+  github: saeedm31/InvoiceGuard
+  quote: >
+    An accounts-payable agent that can never pay a fake invoice.
+  description: | # this will include new lines to allow paragraphs
+    The AI reads and investigates invoices through MCP servers, code applies the payment policy, and a person approves big payments with a signed, single-use token. Zero unsafe payments in its red-team evals. Claude, LangGraph, AWS Terraform, live Streamlit app.
+
+- layout: left
+  name: AccessDesk
+  link: sh-accessdesk.streamlit.app
+  github: saeedm31/AccessDesk
+  quote: >
+    An IT access-request agent built the way IT security would run it.
+  description: | # this will include new lines to allow paragraphs
+    Employees ask in plain words; Claude finds the right app, the policy decides in code, the employee confirms and approvers approve. Every tool call carries the employee's own signed identity, never admin rights. Five MCP servers, memory only with consent, live Streamlit app.
+
+- layout: left
+  name: FleetPilot
+  link: sh-fleetpilot.streamlit.app
+  github: saeedm31/FleetPilot
+  quote: >
+    Which fleet customers will order new trucks soon, and why?
+  description: | # this will include new lines to allow paragraphs
+    XGBoost with SHAP reasons ranks customers for sales reps, and a LangGraph copilot answers their questions with numbers checked against the data. MLflow, audit log, cost meter, Docker, live Streamlit app.
+
+- layout: left
   name: LexTreeRAG
   link: saeedm31.github.io/LexTreeRAG
   github: saeedm31/LexTreeRAG
@@ -6,6 +42,15 @@
     Ask questions about EU law and get answers that cite the exact articles, pulled live from EUR-Lex.
   description: | # this will include new lines to allow paragraphs
     Vectorless RAG: the model navigates each regulation's article tree instead of searching embeddings. Claude, SPARQL, Streamlit.
+
+- layout: left
+  name: TreadCast
+  link: sh-treadcast.streamlit.app
+  github: saeedm31/TreadCast
+  quote: >
+    How much tread is left on each truck tire, and how many km until it must be changed?
+  description: | # this will include new lines to allow paragraphs
+    From an in-tire acceleration sensor: physics features, a 1D CNN (PyTorch), gradient boosting and a per-tire Kalman filter. Simulated fleet with honest hold-out testing; Docker images for training and serving, live Streamlit app.
 
 - layout: left
   name: Bank KPI Assistant
